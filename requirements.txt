@@ -1,0 +1,3 @@
+pyecharts
+snapshot-selenium
+Flask
